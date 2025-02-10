@@ -10,7 +10,7 @@
   <img src="./imgs/Computer-Config-List.png" style="width: 600px;display:block;" alt="电脑配置"/>
 
 ## 嘿，也许不一样
-<img src="./imgs/ei.jpg" style="width: 100px;" alt="古明地恋"/>别的不多说，干就完了
+<img src="./imgs/ei.jpg" style="width: 100px;" alt="古明地恋"/>    别的不多说，干就完了
 
 
 
