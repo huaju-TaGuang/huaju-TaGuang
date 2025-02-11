@@ -5,9 +5,7 @@
 - 😆正在努力开发自身，并在研究C++进行嵌入式开发和Python进行Ai开发（本地运行别人的AI模型玩）。
 
 ## 我在doing什么？🤣👉
-- 👼欲想成其事，必先利其器，我在研究电脑的硬件搭配，没错我还在尝试玩硬件。
-  目前的理想配置单如下：
-  <img src="./imgs/Computer-Config-List.png" style="width: 600px;display:block;" alt="电脑配置"/>
+- 👉👈正如上所述，我在打工。
 
 ## 嘿，也许不一样🎁
 <img src="./imgs/ei.jpg" style="width: 100px;" alt="古明地恋"/>    别的不多说，干就完了
