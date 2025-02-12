@@ -4,6 +4,12 @@
 - 😎我主要开发.Net，乐于研究的热门前端框架如Vue、React。
 - 😆正在努力开发自身，并在研究C++进行嵌入式开发和Python进行Ai开发（本地运行别人的AI模型玩）。
 
+## 我常用的编程语言
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+## 我的 GitHub 统计数据
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 ## 我在doing什么？🤣👉
 - 👉👈正如上所述，我在打工。
 
